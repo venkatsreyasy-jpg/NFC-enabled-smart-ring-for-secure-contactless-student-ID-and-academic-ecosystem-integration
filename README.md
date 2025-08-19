@@ -29,8 +29,7 @@ education, healthcare, enterprise security, and financial transactions.
 ---
 
 👤 **Team Members:**  
-- Shashanka Kalkura  
 - Kompella T Sharma  
 - Siri A Bhat  
 - Venkat S Yelisetty  
-- Divyansh Jain  
+
